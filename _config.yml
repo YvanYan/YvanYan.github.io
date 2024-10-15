@@ -12,7 +12,7 @@ title                    : "Yan Yicheng's CV"
 title_separator          : "-"
 name                     : &name "Yan Yicheng"
 description              : &description "personal description"
-url                      : "https://yvanyan.github.io/"https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yvanyan.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YvanYan/yvanyan.github.io"
 
